@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>meshes/_.mesh</file>
+        <file>meshes/__1.mesh</file>
+        <file>meshes/__004.mesh</file>
+        <file>meshes/__005.mesh</file>
+        <file>meshes/__006.mesh</file>
+        <file>meshes/__007.mesh</file>
+        <file>meshes/__008.mesh</file>
+        <file>RootModel.qml</file>
+        <file>SignalCal.qml</file>
+        <file>maps/Mont.png</file>
+        <file>maps/Ocean.png</file>
+        <file>maps/icon.png</file>
+        <file>heatmaps/heatmap.png</file>
+        <file>heatmaps/ruler.png</file>
+        <file>meshes/rootmodel.blend</file>
+        <file>maps/Mental.png</file>
+    </qresource>
+</RCC>
